@@ -11,5 +11,8 @@
     "encrypt"
   ],
   "author": "heibaizi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "shell-oooooyoung": "^1.1.11"
+  }
 }
